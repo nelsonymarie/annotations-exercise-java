@@ -1,0 +1,18 @@
+# ignore everything
+*
+
+# but this file
+!.gitignore
+.DS_Store
+
+# IntelliJ
+.idea/*
+*.iml
+
+# Compiled output
+*.class
+out/*
+
+target
+
+
